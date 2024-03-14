@@ -49,8 +49,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539321
-		objId: 486539321
+		id: q486539320
+		objId: 486539320
 		x: 26
 		y: 91
 		width: 214
@@ -71,8 +71,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539322
-		objId: 486539322
+		id: q486539321
+		objId: 486539321
 		x: 26
 		y: 28
 		width: 214
@@ -137,8 +137,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539323
-		objId: 486539323
+		id: q486539322
+		objId: 486539322
 		x: 290
 		y: 91
 		width: 214
@@ -159,8 +159,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539324
-		objId: 486539324
+		id: q486539323
+		objId: 486539323
 		x: 290
 		y: 28
 		width: 214
@@ -248,8 +248,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539325
-		objId: 486539325
+		id: q486539324
+		objId: 486539324
 		x: 553
 		y: 92
 		width: 214
@@ -270,8 +270,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539326
-		objId: 486539326
+		id: q486539325
+		objId: 486539325
 		x: 553
 		y: 29
 		width: 214
@@ -382,8 +382,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539327
-		objId: 486539327
+		id: q486539326
+		objId: 486539326
 		x: 26
 		y: 186
 		width: 214
@@ -495,5 +495,64 @@ IGuiPage
 		qm_RectangleRadiusHorizontal: 4
 		qm_RectangleRadiusVertical: 4
 		qm_FillStyle: false
+	}
+	IGuiButton
+	{
+		id: q486539329
+		objId: 486539329
+		x: 290
+		y: 186
+		width: 214
+		height: 55
+		qm_BorderCornerRadius: 6
+		qm_BorderWidth: 1
+		qm_RectangleBorder.color:"#ffff0000"
+		qm_FillColor: "#ff424142"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 1
+		qm_Anchors.leftMargin: 1
+		qm_Anchors.rightMargin: 1
+		qm_Anchors.topMargin: 1
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiQmlRectangle
+	{
+		id: q671088732
+		objId: 671088732
+		x: 506
+		y: 186
+		width: 13
+		height: 55
+		qm_BorderWidth: 1
+		qm_TextColor: "#ff181c31"
+		qm_FillColor: "#ffdedbde"
+		qm_RectangleWidth: 13
+		qm_RectangleHeight: 55
+	}
+	IGuiTextField
+	{
+		id: q268435512
+		objId: 268435512
+		x: 331
+		y: 162
+		width: 140
+		height: 20
+		qm_BorderCornerRadius: 3
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
+		qm_Border.top: 0
+		qm_Border.bottom: 0
+		qm_Border.right: 0
+		qm_Border.left: 0
+		qm_FillColor: "#ffffff9c"
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 3
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
 	}
 }

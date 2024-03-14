@@ -68,17 +68,17 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 5
 				qm_tableHeaderHeight: 16
-				qm_leftImageID: 57
+				qm_leftImageID: 56
 				qm_leftTileTop: 4
 				qm_leftTileBottom: 14
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 58
+				qm_middleImageID: 57
 				qm_middleTileTop: 2
 				qm_middleTileBottom: 15
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 59
+				qm_rightImageID: 58
 				qm_rightTileTop: 4
 				qm_rightTileBottom: 14
 				qm_rightTileRight: 4
