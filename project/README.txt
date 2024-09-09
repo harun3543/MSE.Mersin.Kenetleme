@@ -1,2 +1,2 @@
-MersinKenet100 - çift el röleli proje
-MersinKenet200 - çift el rölesi olmayan programsal çift el projesi
+MersinKenet100_V18 -> makine 1 projesi
+MersinKenet200_V18 -> makine 2 projesi (sadece ekrandaki başlık farklı)
