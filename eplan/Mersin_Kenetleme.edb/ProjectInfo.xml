@@ -12,8 +12,8 @@
  <Property name="Project structure: Higher-level function number" id="10005" index="0" type="7"/>
  <Property name="Project structure: Document type" id="10006" index="0" type="7">&lt;1500&gt;</Property>
  <Property name="Project structure: User-defined structure" id="10007" index="0" type="7"/>
- <Property name="Project name (full)" id="10009" index="0" type="7">Z:\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan\Mersin_Kenetleme.elk</Property>
- <Property name="Project path" id="10010" index="0" type="7">Z:\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan</Property>
+ <Property name="Project name (full)" id="10009" index="0" type="7">\\172.29.80.1\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan\Mersin_Kenetleme.elk</Property>
+ <Property name="Project path" id="10010" index="0" type="7">\\172.29.80.1\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan</Property>
  <Property name="Project description" id="10011" index="0" type="15">??_??@KENETLEME MAKİNESİ;</Property>
  <Property name="Use page name in DT" id="10012" index="0" type="1">0</Property>
  <Property name="Job number" id="10013" index="0" type="7">IEC_bas003</Property>
@@ -29,7 +29,7 @@
  <Property name="Modification date" id="10023" index="0" type="14">1754372791</Property>
  <Property name="Last translation: Date" id="10024" index="0" type="14">1683206171</Property>
  <Property name="Responsible for project" id="10025" index="0" type="7">Harun DURMUŞ</Property>
- <Property name="Date" id="10027" index="0" type="14">1727350973</Property>
+ <Property name="Date" id="10027" index="0" type="14">1735036742</Property>
  <Property name="Project start" id="10028" index="0" type="14">1719390401</Property>
  <Property name="Superior structure formats" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Project: Type" id="10031" index="0" type="15">en_US@PLC;de_DE@SPS;es_ES@PLC;fr_FR@API;nl_NL@PLC;sv_SE@PLC;da_DK@PLC;ru_RU@ПЛК;zh_CN@PLC;pl_PL@PLC;pt_BR@CLP;cs_CZ@PLC;it_IT@PLC;hu_HU@PLC;pt_PT@PLC;ko_KR@PLC;ja_JP@PLC;tr_TR@PLC;ro_RO@PLC;zh_TW@PLC;</Property>
@@ -37,7 +37,7 @@
  <Property name="Manufacturing date" id="10042" index="0" type="7">2024</Property>
  <Property name="EPLAN version of the last modification or update" id="10043" index="0" type="7">2024.0.3</Property>
  <Property name="EPLAN build number of the last modification or update" id="10044" index="0" type="7">21408</Property>
- <Property name="Project path (full)" id="10045" index="0" type="7">Z:\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan</Property>
+ <Property name="Project path (full)" id="10045" index="0" type="7">\\172.29.80.1\MSE_Proje\Isikoglu\Mersin\MSE.Mersin.Kenetleme\eplan</Property>
  <Property name="Creation time" id="10046" index="0" type="7">11:26:41 AM</Property>
  <Property name="Modification time" id="10047" index="0" type="7">8:46:31 AM</Property>
  <Property name="Last translation: Time" id="10048" index="0" type="7">4:16:11 PM</Property>
@@ -48,7 +48,7 @@
  <Property name="Structure format for general devices" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for black boxes" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for PLC / bus technology" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Time of the day" id="10058" index="0" type="14">1727350973</Property>
+ <Property name="Time of the day" id="10058" index="0" type="14">1735036742</Property>
  <Property name="Structure format for terminal strips" id="10059" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for plugs" id="10060" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Structure format for cables" id="10061" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -235,7 +235,7 @@
  <Property name="Last modification date per page type" id="10250" index="11" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="12" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="13" type="14"/>
- <Property name="Last modification date per page type" id="10250" index="14" type="14">1751004975</Property>
+ <Property name="Last modification date per page type" id="10250" index="14" type="14">1733123716</Property>
  <Property name="Last modification date per page type" id="10250" index="15" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="16" type="14"/>
  <Property name="Last modification date per page type" id="10250" index="17" type="14">1751004975</Property>
@@ -298,7 +298,7 @@
  <Property name="Last modification time per page type" id="10251" index="11" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="12" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="13" type="7"/>
- <Property name="Last modification time per page type" id="10251" index="14" type="7">9:16:15 AM</Property>
+ <Property name="Last modification time per page type" id="10251" index="14" type="7">10:15:16 AM</Property>
  <Property name="Last modification time per page type" id="10251" index="15" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="16" type="7"/>
  <Property name="Last modification time per page type" id="10251" index="17" type="7">9:16:15 AM</Property>
@@ -376,4 +376,104 @@
  <Property name="Type of project" id="10902" index="0" type="4">1</Property>
  <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
  <Property name="Revision marker format (change tracking)" id="19031" index="0" type="7">[14&lt;10155,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10157,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10158,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;]</Property>
+ <Property name="User supplementary field 1" id="40001" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField1" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 2" id="40002" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField2" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 3" id="40003" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField3" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 4" id="40004" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField4" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 5" id="40005" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField5" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 6" id="40006" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField6" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 7" id="40007" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField7" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 8" id="40008" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField8" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 9" id="40009" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField9" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 10" id="40010" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField10" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 11" id="40011" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField11" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 12" id="40012" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField12" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 13" id="40013" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField13" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 14" id="40014" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField14" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 15" id="40015" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField15" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 16" id="40016" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField16" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 17" id="40017" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField17" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 18" id="40018" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField18" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 19" id="40019" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField19" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 20" id="40020" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField20" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 21" id="40021" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField21" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 22" id="40022" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField22" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 23" id="40023" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField23" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 24" id="40024" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField24" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 25" id="40025" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField25" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 26" id="40026" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField26" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 27" id="40027" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField27" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 28" id="40028" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField28" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 29" id="40029" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField29" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 30" id="40030" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField30" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 31" id="40031" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField31" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 32" id="40032" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField32" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 33" id="40033" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField33" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 34" id="40034" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField34" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 35" id="40035" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField35" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 36" id="40036" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField36" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 37" id="40037" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField37" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 38" id="40038" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField38" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 39" id="40039" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField39" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 40" id="40040" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField40" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 41" id="40041" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField41" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 42" id="40042" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField42" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 43" id="40043" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField43" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 44" id="40044" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField44" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 45" id="40045" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField45" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 46" id="40046" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField46" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 47" id="40047" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField47" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 48" id="40048" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField48" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 49" id="40049" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField49" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 50" id="40050" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField50" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 51" id="40051" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField51" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 52" id="40052" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField52" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 53" id="40053" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField53" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 54" id="40054" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField54" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 55" id="40055" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField55" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 56" id="40056" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField56" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 57" id="40057" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField57" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 58" id="40058" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField58" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 59" id="40059" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField59" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 60" id="40060" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField60" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 61" id="40061" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField61" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 62" id="40062" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField62" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 63" id="40063" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField63" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 64" id="40064" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField64" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 65" id="40065" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField65" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 66" id="40066" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField66" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 67" id="40067" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField67" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 68" id="40068" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField68" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 69" id="40069" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField69" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 70" id="40070" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField70" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 71" id="40071" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField71" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 72" id="40072" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField72" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 73" id="40073" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField73" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 74" id="40074" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField74" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 75" id="40075" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField75" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 76" id="40076" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField76" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 77" id="40077" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField77" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 78" id="40078" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField78" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 79" id="40079" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField79" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 80" id="40080" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField80" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 81" id="40081" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField81" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 82" id="40082" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField82" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 83" id="40083" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField83" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 84" id="40084" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField84" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 85" id="40085" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField85" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 86" id="40086" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField86" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 87" id="40087" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField87" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 88" id="40088" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField88" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 89" id="40089" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField89" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 90" id="40090" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField90" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 91" id="40091" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField91" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 92" id="40092" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField92" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 93" id="40093" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField93" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 94" id="40094" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField94" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 95" id="40095" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField95" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 96" id="40096" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField96" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 97" id="40097" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField97" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 98" id="40098" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField98" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 99" id="40099" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField99" category="1" displaytype="9000"/>
+ <Property name="User supplementary field 100" id="40100" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField100" category="1" displaytype="9000"/>
 </Properties>
